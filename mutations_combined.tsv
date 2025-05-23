@@ -1,0 +1,11 @@
+Gene	Sample	Consequence	AA_Change	Transcript
+YBR219C	Sample_1	frameshift_variant	103-106/HFFF/HFFFX	YBR219C_mRNA
+YBR300C	Sample_1	frameshift_variant	120/V/DX	YBR300C_mRNA
+YCR010C	Sample_1	missense_variant	252/A/G	YCR010C_mRNA
+YKL030W	Sample_1	frameshift_variant	25/Y/YX	YKL030W_mRNA
+YMR245W	Sample_1	frameshift_variant	174-175/NI/NIX	YMR245W_mRNA
+YCR010C	Sample_2	missense_variant	219/L/V	YCR010C_mRNA
+YDR534C	Sample_2	missense_variant	315/V/A	YDR534C_mRNA
+YDR534C	Sample_2	missense_variant	310/E/G	YDR534C_mRNA
+YFL023W	Sample_2	missense_variant	493/V/I	YFL023W_mRNA
+YHR213W-B	Sample_2	missense_variant	44/T/R	YHR213W-B_mRNA
