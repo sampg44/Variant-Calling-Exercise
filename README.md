@@ -75,7 +75,7 @@ This analysis was conducted as part of the **Bioinformatics II** course taught b
 
 ## References
 
-1. Kok J, et al. (2012). Laboratory evolution of new lactate transporter genes in a jen1Δ mutant of *Saccharomyces cerevisiae* and their identification as *ADY2* alleles by whole-genome resequencing and transcriptome analysis. *FEMS Yeast Research*, 12(4): 359–374. [https://doi.org/10.1111/j.1567-1364.2012.00800.x](https://doi.org/10.1111/j.1567-1364.2012.00800.x)
+1. Kok J, et al. (2012). Laboratory evolution of new lactate transporter genes in a jen1Δ mutant of *Saccharomyces cerevisiae* and their identification as *ADY2* alleles by whole-genome resequencing and transcriptome analysis. *FEMS Yeast Research*, 12(4): 359–374. [PubMed link](https://pubmed.ncbi.nlm.nih.gov/22257278/)
 2. MiModD Tutorial – Example 2. [https://mimodd.readthedocs.io/en/latest/tutorial\_example2.html](https://mimodd.readthedocs.io/en/latest/tutorial_example2.html)
 
 ## Author
